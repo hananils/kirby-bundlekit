@@ -1,0 +1,15 @@
+{
+    "name": "hananils/bundlekit",
+    "description": "Experimental Kirby 3 panel plugin template with automatic component bundling",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hana+nils · Büro für Gestaltung",
+            "email": "buero@hananils.de"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/hananils/kirby-bundlekit/issues/"
+    }
+}
